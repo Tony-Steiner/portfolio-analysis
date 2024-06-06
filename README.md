@@ -81,7 +81,13 @@ The 110 rule is a simple heuristic for portfolio allocation that suggests subtra
 
 ## Files Included
 - `portfolio_analysis.ipynb`
-- `portfolio_data.xlsx`
+- `df_voo`
+- `df_vea`
+- `df_vwo`
+- `df_vt`
+- `df_funo11`
+- `df_qqq`
+- `df_cetes`
 - `rolling_volatility.png`
 - `annual_returns.png`
 - `cumulative_returns.png`
