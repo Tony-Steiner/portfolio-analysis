@@ -1,0 +1,16 @@
+
+
+# with '#' will be ignored, and an empty message aborts the commit.
+
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   df_cetes.csv
+#	new file:   df_funo11.csv
+#	new file:   df_qqq.csv
+#	new file:   df_vea.csv
+#	new file:   df_voo.csv
+#	new file:   df_vt.csv
+#	new file:   df_vwo.csv
+#	deleted:    portfolio_data.xlsx
+#
